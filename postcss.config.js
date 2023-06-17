@@ -1,5 +1,5 @@
 import autoprefixer from "autoprefixer";
 
-  export const config = {
-    plugins: [autoprefixer],
-  };
+export const config = {
+  plugins: [autoprefixer],
+};
